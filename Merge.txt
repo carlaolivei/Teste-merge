@@ -1,1 +1,3 @@
 Texto Master
+Testando o branch teste.
+Incluindo texto para fazer o merge com o master.
