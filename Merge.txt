@@ -1,1 +1,4 @@
 Texto Master
+Testando o branch teste.
+Incluindo texto para fazer o merge com o master.
+Alterando para efetuar o segundo commit da branch antes de fazer o merge.
